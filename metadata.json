@@ -1,0 +1,6 @@
+{
+  "name": "TnTer-TICS - Chăm Sóc Gia Đình & Đào Tạo Việc Làm",
+  "description": "Website dịch vụ chăm sóc người già, mẹ sau sinh & bé sơ sinh, dọn dẹp nhà và giữ trẻ tại TP.HCM, Bình Dương, Đồng Nai. Tiết kiệm 20% so với thị trường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
